@@ -1,3 +1,8 @@
 https://github.com/srajasuresh/ruby.git
 
-test
+user id: srajasuresh
+pw:aa(G)
+git status
+git add
+git commit -m "weclcome"
+git push origin master
